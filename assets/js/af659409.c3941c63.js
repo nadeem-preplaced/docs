@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdyte_docs=self.webpackChunkdyte_docs||[]).push([[96096],{81046:function(e){e.exports=JSON.parse('{"name":"quickstart","permalink":"/web-core/tags/quickstart","docs":[{"id":"version-0.2/quickstart","title":"Quickstart","description":"Quickstart guide for web-core.","permalink":"/web-core/quickstart"}],"allTagsPath":"/web-core/tags"}')}}]);

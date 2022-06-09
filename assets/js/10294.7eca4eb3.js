@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdyte_docs=self.webpackChunkdyte_docs||[]).push([[10294],{10294:function(t,s,e){e.r(s),e.d(s,{dyte_stage:function(){return r}});var n=e(13441);const r=class{constructor(t){(0,n.r)(this,t)}render(){return(0,n.h)(n.H,null,(0,n.h)("slot",null))}};r.style=":host{display:block;position:relative;font-family:var(--dyte-font-family, sans-serif)}"}}]);
