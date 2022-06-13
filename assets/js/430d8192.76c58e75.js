@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdyte_docs=self.webpackChunkdyte_docs||[]).push([[95348],{34126:function(e){e.exports=JSON.parse('{"name":"installation","permalink":"/web-core/tags/installation","docs":[{"id":"version-0.24.x/installation","title":"Installation","description":"Install web-core.","permalink":"/web-core/installation"}],"allTagsPath":"/web-core/tags"}')}}]);
