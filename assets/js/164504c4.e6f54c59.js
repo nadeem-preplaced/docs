@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdyte_docs=self.webpackChunkdyte_docs||[]).push([[31699],{8526:function(e){e.exports=JSON.parse('{"name":"recording","permalink":"/web-core/tags/recording","docs":[{"id":"version-0.27.x/recording","title":"Recording","description":"Control recordings in a meeting.","permalink":"/web-core/recording"}],"allTagsPath":"/web-core/tags"}')}}]);
